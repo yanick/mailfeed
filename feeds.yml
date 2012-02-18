@@ -1,0 +1,4 @@
+app_dir: /home/yanick/work/feed2mail
+feeds:
+    - "fearful symmetry": http://babyl.ca/techblog/atom.xml
+    - "ironman": http://ironman.enlightenedperl.org/?feed=atom
